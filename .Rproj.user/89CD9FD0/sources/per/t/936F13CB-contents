@@ -1,6 +1,8 @@
 # igisci require test
 
 ```{r}
+install.packages("jsonlite")
+   renv::snapshot()
 if(!require("igisci")){
   install.packages("remotes")
   remotes::install_github("iGISc/igisci")
