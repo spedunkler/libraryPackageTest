@@ -1,14 +1,14 @@
 {
-    "id": "76CC5294",
-    "path": "~/GitHub/libraryPackageTest/R/hello.R",
-    "project_path": "R/hello.R",
-    "type": "r_source",
-    "hash": "4051620188",
+    "id": "C30F872C",
+    "path": "~/GitHub/libraryPackageTest/DESCRIPTION",
+    "project_path": "DESCRIPTION",
+    "type": "dcf",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1788737589006.0,
+    "created": 1788791648116.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
