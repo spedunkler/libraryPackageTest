@@ -3,7 +3,7 @@
     "path": "~/GitHub/libraryPackageTest/manifest.json",
     "project_path": "manifest.json",
     "type": "json",
-    "hash": "413573007",
+    "hash": "3598190175",
     "contents": "",
     "dirty": false,
     "created": 1788738740110.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
-        "scrollLine": "63"
+        "cursorPosition": "31,97",
+        "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1788792567,
+    "lastKnownWriteTime": 1788799720,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1788792567,
+    "last_content_update": 1788799720994,
     "read_only": false,
     "read_only_alternatives": []
 }
