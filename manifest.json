@@ -55,16 +55,16 @@
       "checksum": "7f3003188f3a78fd085feca239edcc60"
     },
     ".RData": {
-      "checksum": "5ee5e8b67f952938db592da40328ba79"
+      "checksum": "eebaacf085f79ee1566ed0b036e8b084"
     },
     ".Rprofile": {
-      "checksum": "457de693218514bdf726416728ae2006"
+      "checksum": "ec023d96b879134af566b8020731ee12"
     },
     "DESCRIPTION": {
       "checksum": "0734cf9fcc5bc568257668ae1c6d7bf5"
     },
     "index.Rmd": {
-      "checksum": "4301e078c760774ab473095c4f924b4c"
+      "checksum": "d32dc2f4e7acda1de94b57155caee428"
     },
     "man/hello.Rd": {
       "checksum": "6efd8217f473a7d176807f4025bfee60"
@@ -75,8 +75,11 @@
     "R/hello.R": {
       "checksum": "7ce995431e717242e718c20b91f10cd1"
     },
+    "README.md": {
+      "checksum": "3941228c3d5b108c23fdbb8f0ddd16ab"
+    },
     "renv.lock": {
-      "checksum": "3a39eee68b26134082bdf0bd8c5055b5"
+      "checksum": "c41dc01924ec8792f777dd707551331d"
     }
   },
   "users": null
